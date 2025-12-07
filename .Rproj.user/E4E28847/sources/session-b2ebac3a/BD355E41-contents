@@ -1,0 +1,18 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/KedirYAhmed
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kedir-ahmed-0732188b/
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+About this blog
