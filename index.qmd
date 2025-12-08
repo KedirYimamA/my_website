@@ -1,8 +1,9 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Dr Kedir Ahmed"
+subtitle: Health Data Scientist | Epidemiologist
+image: My_picture.jpg
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: twitter
       text: Twitter
@@ -15,4 +16,11 @@ about:
       href: https://github.com
 ---
 
-About this blog
+<div style="text-align: left;">
+
+### About me
+
+I am an epidemiologist and health data scientist with a clinical background and a PhD from Western Sydney University, Australia. My core expertise lies in designing epidemiological studies, analysing complex datasets, and interpreting results using advanced statistical and machine learning methods to generate actionable insights from health data. My research focuses on deepening our understanding of how modifiable risk factors influence population health, particularly in the context of chronic diseases such as cardiovascular disease, type 2 diabetes, and obesity. I am especially interested in uncovering causal dietary and lifestyle risk factors using modern analytical approaches that combine traditional epidemiology with causal inference, machine learning, and spatial analysis.
+
+</div>
+

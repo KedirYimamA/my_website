@@ -2,8 +2,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Dr Kedir Ahmed",
+    "section": "",
+    "text": "About me\nI am an epidemiologist and health data scientist with a clinical background and a PhD from Western Sydney University, Australia. My core expertise lies in designing epidemiological studies, analysing complex datasets, and interpreting results using advanced statistical and machine learning methods to generate actionable insights from health data. My research focuses on deepening our understanding of how modifiable risk factors influence population health, particularly in the context of chronic diseases such as cardiovascular disease, type 2 diabetes, and obesity. I am especially interested in uncovering causal dietary and lifestyle risk factors using modern analytical approaches that combine traditional epidemiology with causal inference, machine learning, and spatial analysis."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "my_website",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 20, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 17, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "my_website",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 20, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 17, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Dr Kedir Ahmed",
+    "section": "Education",
+    "text": "Education\nDoctor of Philosophy, Western Sydney University, Australia, 2018-2023\nMasters in Health Data Science, University of New South Wales, Australia, 2024-2026\nMasters of Public Health, University of Gondar, Ethiopia, 2011-2013\nBachelors in Public Health, Arba Minch University, Ethiopia, 2007-2010"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Dr Kedir Ahmed",
+    "section": "",
+    "text": "I am an epidemiologist and health data scientist with a clinical background and a PhD from Western Sydney University, Australia. My core expertise lies in designing epidemiological studies, analysing complex datasets, and interpreting results using advanced statistical and machine learning methods to generate actionable insights from health data. My research focuses on deepening our understanding of how modifiable risk factors influence population health, particularly in the context of chronic diseases such as cardiovascular disease, type 2 diabetes, and obesity. I am especially interested in uncovering causal dietary and lifestyle risk factors using modern analytical approaches that combine traditional epidemiology with causal inference, machine learning, and spatial analysis."
   }
 ]
