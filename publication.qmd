@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+### 2025
+
+-   **Ahmed KY**, et. al,. Cardiometabolic Outcomes Among Adults With Abdominal Obesity and Normal Body Mass Index. JAMA Netw Open. 2025 Oct 1;8(10):e2537942.
+-   **Ahmed KY**, et. al,. Normal-weight central obesity and cardiometabolic disorders among Aboriginal and Torres Strait Islander Australians. BMC Med. 2025 Feb 21;23(1):106.
+-   Ross AG, ......, **Ahmed KY**. Diabetic kidney disease in rural Australia: prevention, management, treatment and way forward. Front Med (Lausanne). 2025 Jun 12;12:1561566.
+-   Aychiluhm SB, Mondal UK, Isaac V, Ross AG, **Ahmed KY**. Interventions for Childhood Central Obesity: A Systematic Review and Meta-Analysis. JAMA Netw Open. 2025 Apr 1;8(4):e254331.
+-   Berhe FT, Shifti DM, Veerman JL, Aminde L, **Ahmed KY**, et al,. Digital versus nondigital behavioral interventions on cardiovascular risk reduction: systematic review and meta-analysis. Ann Behav Med. 2025 Jan 4;59(1):kaaf043.
+-   
+
+### 2023
+
+::: {#refs-2023}
+:::

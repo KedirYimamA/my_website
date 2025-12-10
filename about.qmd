@@ -12,7 +12,7 @@ about:
       href: https://www.linkedin.com/in/kedir-ahmed-0732188b/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/KedirYimamA
 ---
 
 About this blog

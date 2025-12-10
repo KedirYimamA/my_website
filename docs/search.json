@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Dr Kedir Ahmed",
     "section": "",
-    "text": "About me\nI am an epidemiologist and health data scientist with a clinical background and a PhD from Western Sydney University, Australia. My core expertise lies in designing epidemiological studies, analysing complex datasets, and interpreting results using advanced statistical and machine learning methods to generate actionable insights from health data. My research focuses on deepening our understanding of how modifiable risk factors influence population health, particularly in the context of chronic diseases such as cardiovascular disease, type 2 diabetes, and obesity. I am especially interested in uncovering causal dietary and lifestyle risk factors using modern analytical approaches that combine traditional epidemiology with causal inference, machine learning, and spatial analysis."
+    "text": "About me\nI am an epidemiologist and health data scientist with a clinical background and a PhD from Western Sydney University, Australia. My core expertise lies in designing epidemiological studies, analysing complex datasets, and interpreting results using advanced statistical and machine learning methods to generate actionable insights from health data. My research focuses on understanding of how modifiable risk factors influence population health, particularly in the context of chronic diseases such as cardiovascular disease, type 2 diabetes, and obesity. I am especially interested in uncovering causal dietary and lifestyle risk factors using modern analytical approaches that combine traditional epidemiology with causal inference, machine learning, and spatial analysis."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "[About this blog](— title: “About” image: profile.jpg about: template: jolla links: - icon: twitter text: Twitter href: https://x.com/KedirYAhmed - icon: linkedin text: LinkedIn href: https://www.linkedin.com/in/kedir-ahmed-0732188b/ - icon: github text: Github href: https://github.com/KedirYimamA —)"
   },
   {
     "objectID": "index_old.html",
@@ -54,5 +54,19 @@
     "title": "Dr Kedir Ahmed",
     "section": "",
     "text": "I am an epidemiologist and health data scientist with a clinical background and a PhD from Western Sydney University, Australia. My core expertise lies in designing epidemiological studies, analysing complex datasets, and interpreting results using advanced statistical and machine learning methods to generate actionable insights from health data. My research focuses on deepening our understanding of how modifiable risk factors influence population health, particularly in the context of chronic diseases such as cardiovascular disease, type 2 diabetes, and obesity. I am especially interested in uncovering causal dietary and lifestyle risk factors using modern analytical approaches that combine traditional epidemiology with causal inference, machine learning, and spatial analysis."
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed KY, et. al,. Cardiometabolic Outcomes Among Adults With Abdominal Obesity and Normal Body Mass Index. JAMA Netw Open. 2025 Oct 1;8(10):e2537942."
+  },
+  {
+    "objectID": "publication.html#journal-articles",
+    "href": "publication.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed KY, et. al,. Cardiometabolic Outcomes Among Adults With Abdominal Obesity and Normal Body Mass Index. JAMA Netw Open. 2025 Oct 1;8(10):e2537942."
   }
 ]

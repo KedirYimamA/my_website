@@ -12,18 +12,17 @@ website:
         file: portfolio.qmd
       - text: "Resume"
         file: Resume.qmd
+      - text: "Publications"
+        file: publication.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/KedirYimamA
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/KedirYAhmed
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
 
 editor: visual
-
