@@ -8,7 +8,7 @@ website:
     left: 
       - text: "Home"
         file: index.qmd
-      - text: "Portfolio"
+      - text: "Showcase"
         file: portfolio.qmd
       - text: "Resume"
         file: Resume.qmd

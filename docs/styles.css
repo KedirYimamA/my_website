@@ -1,1 +1,38 @@
-/* css styles */
+/* Global accent colour */
+:root {
+  --primary: #0073e6;   /* blue accent */
+  --light-bg: #f2f7ff;
+}
+
+/* About card styling */
+.contact-card {
+  background: var(--light-bg);
+  padding: 15px 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  border-left: 4px solid var(--primary);
+}
+
+/* Form styling */
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 12px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+.contact-form button {
+  background: var(--primary);
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.contact-form button:hover {
+  background: #005bb5;
+}

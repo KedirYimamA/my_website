@@ -7,20 +7,38 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://x.com/KedirYAhmed
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/kedir-ahmed
     - icon: github
-      text: Github
-      href: https://github.com
+      text: GitHub
+      href: https://github.com/kedir-ahmed
 ---
 
-<div style="text-align: left;">
+### Welcome
 
-### About me
+Hi! I’m **Dr Kedir Ahmed**, an epidemiologist and Health Data Scientist passionate about turning complex health data into actionable insights.
 
-I am an epidemiologist and health data scientist with a clinical background and a PhD from Western Sydney University, Australia. My core expertise lies in designing epidemiological studies, analysing complex datasets, and interpreting results using advanced statistical and machine learning methods to generate actionable insights from health data. My research focuses on understanding of how modifiable risk factors influence population health, particularly in the context of chronic diseases such as cardiovascular disease, type 2 diabetes, and obesity. I am especially interested in uncovering causal dietary and lifestyle risk factors using modern analytical approaches that combine traditional epidemiology with causal inference, machine learning, and spatial analysis.
+---
 
-</div>
+### About Me
 
+- PhD in Epidemiology & Masters in Health Data Science and Public Health
+- Over 10 years experience in health data analysis and public health research  
+- Strong background in health and medical sciences.  
+- Expert in STATA, R, Python, SQL, and advanced data visualization  
+
+---
+
+### Contact
+
+- **Email:** kedirymam331@gmail.com  
+- **LinkedIn:** [linkedin.com/in/kedir-ahmed](https://linkedin.com/in/kedir-ahmed)  
+
+<form>
+  <input type="text" placeholder="Your Name" required>
+  <input type="email" placeholder="Your Email" required>
+  <textarea placeholder="Your Message" required></textarea>
+  <button type="submit">Send Message</button>
+</form>
